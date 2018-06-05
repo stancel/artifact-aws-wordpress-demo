@@ -19,7 +19,7 @@ available_regions:
   - us-west-1
   - us-east-2
   - us-east-1
-image: https://www.artifakt.io/wp-content/uploads/2017/06/logo-wordpress-1.png
+image: https://assets.artifakt.io/artifacts/logo-wordpress-1.png
 category: cms
 main_language: php
 licence:
@@ -32,7 +32,7 @@ tags:
   - demo 
   - cms
 infrastructure:
-  diagram: https://assets.artifakt.io/artifact-demo-app-aws.png
+  diagram: https://assets.artifakt.io/artifacts/artifact-demo-app-aws.png
   build_time: 50 #seconds
   cost_estimation:
     monthly_price: 18.30  #in dollars per month
